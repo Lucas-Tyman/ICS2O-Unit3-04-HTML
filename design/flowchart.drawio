@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="V2XN2j-wtaACWTHixUPJ" name="Page-1">
+        <mxGraphModel dx="594" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="40" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="get fahrenheit" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="140" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;span id=&quot;docs-internal-guid-90b067c5-7fff-a69f-3ef3-2681b77b3a55&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt ; font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;(32&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: rgb(255 , 255 , 255) ; font-weight: 700 ; vertical-align: baseline&quot;&gt;°&lt;/span&gt;&lt;span style=&quot;font-size: 8pt ; font-family: &amp;#34;courier new&amp;#34; ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;F&lt;/span&gt;&lt;span style=&quot;font-size: 8pt ; font-family: &amp;#34;courier new&amp;#34; ; color: rgb(32 , 33 , 36) ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt; - 32) * 5/9 = 0&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(32 , 33 , 36) ; background-color: rgb(255 , 255 , 255) ; font-weight: 700 ; vertical-align: baseline&quot;&gt;°&lt;/span&gt;&lt;span style=&quot;font-size: 8pt ; font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;C&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8pt ; font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="240" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Show celsius" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="40" width="100" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
